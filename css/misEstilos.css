@@ -1,0 +1,24 @@
+#bg-personalizado {
+    background-color: #ECECF3;
+}
+
+.c-default {
+    cursor: default;
+}
+
+.img-zoom {
+    overflow: hidden;
+}
+
+.hover-zoom {
+    background-color: red;
+    transition      : transform 0.5s ease;
+}
+
+.hover-zoom:hover {
+    transform: scale(1.5);
+}
+
+footer{
+    background-color: #413558;
+}
